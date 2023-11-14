@@ -30,7 +30,7 @@ private static int returnValue = 0;
 public Dedit() { run(); }
 
   public void run() {
-    frame = new JFrame("Text Edit");
+    frame = new JFrame("Dedit");
 
     // Set the look-and-feel (LNF) of the application
 	// Try to default to whatever the host system prefers
